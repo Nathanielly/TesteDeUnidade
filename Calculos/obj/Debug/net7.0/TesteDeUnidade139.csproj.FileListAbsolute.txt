@@ -1,0 +1,14 @@
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.AssemblyInfoInputs.cache
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.AssemblyInfo.cs
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.csproj.CoreCompileInputs.cache
+C:\Iterasys\TesteDeUnidade139\bin\Debug\net7.0\TesteDeUnidade139.exe
+C:\Iterasys\TesteDeUnidade139\bin\Debug\net7.0\TesteDeUnidade139.deps.json
+C:\Iterasys\TesteDeUnidade139\bin\Debug\net7.0\TesteDeUnidade139.runtimeconfig.json
+C:\Iterasys\TesteDeUnidade139\bin\Debug\net7.0\TesteDeUnidade139.dll
+C:\Iterasys\TesteDeUnidade139\bin\Debug\net7.0\TesteDeUnidade139.pdb
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.dll
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\refint\TesteDeUnidade139.dll
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.pdb
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\TesteDeUnidade139.genruntimeconfig.cache
+C:\Iterasys\TesteDeUnidade139\obj\Debug\net7.0\ref\TesteDeUnidade139.dll

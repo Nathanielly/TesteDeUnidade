@@ -1,0 +1,19 @@
+Testes de Unidade
+1 - Em um novo projeto, chamado UnitTests, crie 3 funções para serem alvo dos testes de unidade. São funções para calcular:
+
+a - área de um cubo
+
+b - área de um paralelogramo
+
+c - área de uma pirâmide
+
+
+2 - Crie dois testes de unidade simples (um positivo e um negativo) baseados em valores fixos para a função de cálculo da área do cubo
+
+
+3 - Crie um teste de unidade utilizando TestCase de pelo menos 3 conjuntos de valores como massa de teste, sendo pelo menos 1 teste positivo e
+2 testes negativos, para a função de cálculo da área do paralelogramo.
+
+
+4 - Crie um teste de unidade com um arquivo CSV de pelo menos 3 valores como massa de teste, sendo pelo menos 1 teste positivo e 
+2 testes negativos, para a função de cálculo da área da pirâmide.
